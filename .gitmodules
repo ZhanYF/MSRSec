@@ -4,6 +4,6 @@
 [submodule "external/wolfssl"]
 	path = external/wolfssl
 	url = https://github.com/wolfSSL/wolfssl.git
-[submodule "external/ossl_lib/openssl"]
+[submodule "external/ossl/openssl"]
 	path = external/ossl/openssl
 	url = https://github.com/openssl/openssl.git
